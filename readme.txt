@@ -3,3 +3,4 @@
 33333333
 44444444
 after merge
+Creating a new branch is quick & simple.
