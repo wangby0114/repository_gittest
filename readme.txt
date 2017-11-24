@@ -5,3 +5,4 @@
 after merge
 Creating a new branch is quick and simple.
 --no-ff merge test
+test
