@@ -9,3 +9,5 @@ test
 
 fast-forward-test
 stash
+------stash-start------
+edit
